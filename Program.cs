@@ -11,6 +11,7 @@ namespace pruebaGit
         static void Main(string[] args)
         {
             Console.WriteLine("hola mundo");
+            Console.WriteLine("estoy realizando un primer cambio");
             Console.ReadLine();
         }
     }
